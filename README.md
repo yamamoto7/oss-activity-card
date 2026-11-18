@@ -11,7 +11,7 @@ Show the pull requests you've had merged into other people's open source project
   <img alt="Example card: featured PRs at the top, then merged PRs grouped by owner and repository" src="examples/card-light.svg" width="495">
 </picture>
 
-<sub>This example uses sample data. See it live, with clickable rows, on [@yamamoto7's profile](https://github.com/yamamoto7).</sub>
+<sub>This example uses sample data.</sub>
 
 - **Your contributions, not your stats.** The card shows which projects merged your work and what it was, grouped by organization and repository, with each repository's star count.
 - **Every row is a link.** PRs, repositories and owners each open their own page on GitHub, which an image in a README normally can't do.
